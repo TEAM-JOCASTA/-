@@ -72,10 +72,6 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-MRJOKER_IMG = "https://www.linkpicture.com/q/Orange-and-White-Funny-Dating-Animated-Video-Presentation.gif"
-
-MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
-
 
 PM_START_TEXT = """
 *Hello there*, *I*'*m* [𝑨𝑽𝑨](https://te.legra.ph/file/71d194af7a84fdaa4d248.jpg)
